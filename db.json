@@ -2,21 +2,15 @@
   "noticias": [
     {
       "id": 1,
-      "imagem": "",
-      "titulo": "Teste",
-      "descricao": "Testando o json"
+      "imagem": "assets/img/cardnews.png",
+      "titulo": "Ava subiu para a série A",
+      "descricao": "Ava subiu para a série A do campeonato brasileiro"
     },
     {
-      "imagem": "",
-      "titulo": "Teste 6",
-      "descricao": "Test do json",
+      "imagem": "assets/img/canids.png",
+      "titulo": "Black friday derruba o preço do Disco de freio",
+      "descricao": "Balck friday vende pela metade do dobro,  o disco de freio",
       "id": 2
-    },
-    {
-      "imagem": "",
-      "titulo": "Post",
-      "descricao": "Testando o post",
-      "id": 4
     }
   ]
 }
