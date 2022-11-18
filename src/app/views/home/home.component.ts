@@ -28,10 +28,6 @@ export class HomeComponent implements OnInit {
     })
   }
 
-  userModel = new User("", "") 
-
-  onSubmit(){
-    console.log(this.userModel)
-  }
+ 
 
 }
